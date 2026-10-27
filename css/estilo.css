@@ -1,0 +1,107 @@
+/* Fondo gris = color [0,0,0] de PsychoPy (espacio rgb) */
+:root {
+  --fondo: #808080;
+  --texto: #000;
+  --rojo-caja: #E21B3C;
+  --verde: #008000;
+  --rojo: #ff0000;
+  --boton: #f2f2f2;
+  --boton-borde: #333;
+  --gpt-fondo: #ffffff;
+  --gpt-burbuja: #ececec;
+  --pad: 16px;
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body {
+  margin: 0; padding: 0; height: 100%;
+  background: var(--fondo); color: var(--texto);
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  overscroll-behavior: none;
+}
+body { touch-action: manipulation; -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
+input { -webkit-user-select: text; user-select: text; }
+
+#app {
+  position: fixed; inset: 0;
+  height: 100vh; height: 100dvh;
+  display: flex; flex-direction: column;
+  padding: max(var(--pad), env(safe-area-inset-top)) var(--pad) max(var(--pad), env(safe-area-inset-bottom));
+  overflow: hidden;
+}
+.pantalla { flex: 1; display: flex; flex-direction: column; min-height: 0; width: 100%; max-width: 760px; margin: 0 auto; }
+.centro { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; text-align: center; min-height: 0; }
+.centro > :first-child { margin-top: auto; }
+.centro > :last-child { margin-bottom: auto; }
+.scroll { overflow-y: auto; -webkit-overflow-scrolling: touch; }
+
+.texto { font-size: clamp(17px, 4.6vw, 24px); line-height: 1.4; white-space: pre-line; }
+.texto.peq { font-size: clamp(15px, 4vw, 20px); }
+.titulo { font-size: clamp(22px, 6vw, 32px); font-weight: bold; margin-bottom: .6em; }
+.fijacion { font-size: clamp(36px, 10vw, 56px); color: #fff; line-height: 1; }
+.cuenta { font-size: clamp(48px, 14vw, 80px); }
+
+.barra { display: flex; justify-content: space-between; align-items: center; gap: 8px;
+  font-size: clamp(14px, 3.8vw, 18px); min-height: 1.6em; }
+.aviso { color: var(--rojo); text-align: center; font-size: clamp(13px, 3.6vw, 17px); min-height: 1.4em; margin-top: 2px; }
+
+.btn {
+  appearance: none; border: 2px solid var(--boton-borde); background: var(--boton); color: #000;
+  font: inherit; font-size: clamp(17px, 4.6vw, 22px); border-radius: 12px;
+  padding: 14px 22px; min-height: 52px; cursor: pointer; touch-action: manipulation;
+}
+.btn:active, .btn.pulsado { transform: scale(.98); background: #dcdcdc; }
+.btn[disabled] { opacity: .45; }
+.btn-principal { margin-top: 24px; min-width: 60%; }
+.pie { padding-top: 12px; display: flex; justify-content: center; }
+
+/* Escala 1-6 */
+.escala { display: grid; grid-template-columns: 1fr; gap: 6px; width: 100%; }
+.escala .btn { display: flex; align-items: center; gap: 12px; text-align: left; padding: 8px 14px; min-height: 44px;
+  font-size: clamp(15px, 4vw, 19px); }
+.escala .num { font-weight: bold; font-size: 1.3em; min-width: 1.2em; text-align: center; }
+@media (min-width: 700px) and (min-height: 600px) { .escala { grid-template-columns: 1fr 1fr; } }
+
+/* Opciones de respuesta (cajas con borde rojo como en PsychoPy) */
+.opciones { display: grid; grid-template-columns: 1fr; gap: 10px; width: 100%; }
+@media (orientation: landscape) and (min-width: 560px) { .opciones { grid-template-columns: 1fr 1fr; } }
+.opcion {
+  appearance: none; background: transparent; border: 4px solid var(--rojo-caja); border-radius: 6px;
+  color: #000; font: inherit; font-size: clamp(16px, 4.4vw, 21px); text-align: left;
+  padding: 10px 14px; min-height: 56px; cursor: pointer; touch-action: manipulation;
+}
+.opcion:active, .opcion.pulsado { background: rgba(255,255,255,.25); }
+
+/* Zona de ayuda de ChatGPT */
+.zona-gpt { flex: 1; min-height: 0; display: flex; align-items: center; justify-content: center; padding: 8px 0 12px; }
+.btn-gpt { font-size: clamp(17px, 4.8vw, 22px); padding: 16px 24px; border-radius: 999px; background: #fff; border: 2px solid #222; }
+.chat { background: var(--gpt-fondo); border-radius: 14px; width: 100%; max-height: 100%; overflow-y: auto;
+  padding: 14px 14px 16px; font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif; box-shadow: 0 2px 10px rgba(0,0,0,.2); }
+.chat .cab { font-size: 13px; color: #666; margin-bottom: 10px; font-weight: 600; }
+.chat .user { margin-left: auto; max-width: 85%; background: var(--gpt-burbuja); border-radius: 18px; padding: 9px 14px;
+  font-size: clamp(14px, 3.9vw, 17px); line-height: 1.35; width: fit-content; }
+.chat .pensado { color: #8e8e8e; font-size: clamp(13px, 3.5vw, 15px); margin-top: 12px; }
+.chat .resp { margin-top: 10px; font-size: clamp(16px, 4.4vw, 20px); line-height: 1.45; white-space: pre-line; }
+.gpt-img { max-width: 100%; max-height: 100%; object-fit: contain; background: #fff; }
+
+/* Feedback */
+.fb-monedas { display: flex; align-items: center; gap: 10px; font-size: clamp(26px, 7vw, 38px); margin-bottom: 24px; }
+.fb-monedas img { width: clamp(44px, 12vw, 64px); height: auto; }
+.fb-texto { font-size: clamp(22px, 6vw, 32px); }
+
+/* Tarea de puntos */
+.escena { position: relative; margin: 0 auto; }
+.escena img { position: absolute; inset: 0; width: 100%; height: 100%; visibility: hidden; }
+.escena .marco { position: absolute; inset: 0; border: 3px solid #808080; }
+.escena .fix { position: absolute; left: 50%; top: 50%; transform: translate(-50%,-50%); color: #fff; font-size: 48px; visibility: hidden; }
+.circ { position: absolute; transform: translate(-50%,-50%); border-radius: 50%; visibility: hidden;
+  display: flex; align-items: center; justify-content: center; cursor: pointer; }
+.circ i { display: block; border-radius: 50%; background: #fff; }
+.etq { position: absolute; transform: translate(-50%,-50%); visibility: hidden; pointer-events: none; }
+.instr-img { max-width: 100%; max-height: 55vh; object-fit: contain; }
+.demo-puntos { display: flex; gap: 12px; justify-content: center; margin: 10px 0; }
+.demo-puntos img { width: 42%; max-width: 220px; height: auto; border-radius: 4px; }
+
+.cargando { opacity: .8; font-size: 16px; margin-top: 8px; }
+input.correo { width: 100%; font-size: 20px; padding: 14px; border-radius: 10px; border: 2px solid #333; margin-top: 18px; }
+.oculto { display: none !important; }
+.error { color: #600; background: #fdd; padding: 8px 12px; border-radius: 8px; margin-top: 12px; font-size: 16px; }

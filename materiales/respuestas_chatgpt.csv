@@ -1,0 +1,355 @@
+﻿GPT_Image,origen,ID,Pregunta,Correct,texto_mostrado,contiene_respuesta_correcta
+186.png,practica,1,¿Cómo se llama la familia de Miércoles?,Los Addams,La **familia Addams**.,0
+193.png,practica,2,¿Quién fue el líder de la URSS durante gran parte de la Segunda Guerra Mundial?,Stalin,**Iósif Stalin**.,1
+200.png,practica,3,¿Qué país tiene como capital Wellington?,Nueva Zelanda,**Nueva Zelanda**.,1
+207.png,practica,4,¿Dónde se disputa un combate de boxeo?,Ring,En un **ring**. 🥊,1
+214.png,practica,5,¿Cuál es la unidad de temperatura del Sistema Internacional?,Kelvin,El **kelvin (K)**.,1
+222.png,practica,6,¿Qué artista es conocido por el arte callejero y obras con crítica social?,Banksy,**Banksy**.,1
+224.png,banco,1,¿Cuál fue el primer país en utilizar tarjetas postales?,Austria,"**Austria (Imperio austrohúngaro)**, en **1869**.",1
+225.png,banco,2,¿Quién fue la primera persona en alcanzar los 20 millones de seguidores en Twitter?,Lady Gaga,"**Lady Gaga**, en **marzo de 2012**.",1
+226.png,banco,3,¿Qué animal tiene el ojo más grande del mundo?,El calamar gigante,"**El calamar colosal**, cuyos ojos pueden alcanzar unos **27 centímetros de diámetro**.",0
+227.png,banco,4,¿Qué deporte se filmó por primera vez en 1894?,El boxeo,"**El boxeo**, en 1894.",1
+228.png,banco,5,¿Cuál es el lugar más ventoso de la Tierra?,La Antártida,"**La Antártida**, especialmente la bahía de Commonwealth, considerada uno de los lugares más ventosos de la Tierra.",1
+229.png,banco,6,"Si tuvieras pogonofobia, ¿a qué tendrías miedo?",A las barbas,**A las barbas** (miedo irracional a las barbas o al vello facial).,1
+230.png,banco,7,¿En qué parte del cuerpo de un camarón se encuentra su corazón?,En la cabeza,"**En la cabeza**, concretamente en el cefalotórax.",1
+231.png,banco,8,¿Cuáles son las células más largas del cuerpo humano?,Las neuronas motoras,"**Las neuronas (células nerviosas)**, que pueden alcanzar más de un metro de longitud.",0
+232.png,banco,9,¿Cuál es el elemento más abundante del universo?,El hidrógeno,"**El hidrógeno**, que constituye aproximadamente el 75 % de la materia ordinaria del universo en masa.",1
+233.png,banco,10,¿Qué sustancia constituye aproximadamente tres cuartas partes del cerebro humano?,El agua,"**El agua**, que constituye aproximadamente el 75 % del cerebro humano.",1
+234.png,banco,11,¿Cuál es la universidad más antigua de Gran Bretaña?,Oxford,"**La Universidad de Oxford**, en Inglaterra, cuyos orígenes se remontan al año **1096**.",1
+235.png,banco,12,¿Qué primer ministro británico recibió el Premio Nobel de Literatura?,Winston Churchill,"**Winston Churchill**, quien recibió el **Premio Nobel de Literatura en 1953**.",1
+236.png,banco,13,"¿Cuál de estas sustancias es menos densa en estado sólido que en estado líquido? (agua, mercurio, etanol, aceite de oliva)",El agua,"**El agua**, ya que el hielo es menos denso que el agua líquida.",1
+237.png,banco,14,¿Qué salsa se vendió en el pasado como medicamento?,El kétchup,"**El kétchup**, que se comercializó como medicamento en el siglo XIX.",1
+238.png,banco,15,¿Cuál es el desierto más grande del mundo?,La Antártida,"**El desierto antártico (la Antártida)**, con aproximadamente **14 millones de km²**.",1
+239.png,banco,16,¿Cuál es el planeta más caliente del sistema solar?,Venus,"**Venus**, con una temperatura superficial media de aproximadamente **465 °C**.",1
+240.png,banco,17,¿En qué país es ilegal producir y distribuir películas para adultos?,Corea del Norte,"**Corea del Sur**, donde está prohibida la producción y distribución de películas pornográficas.",0
+241.png,banco,18,¿En qué mar desemboca el Danubio?,En el mar Negro,"**En el mar Negro**, a través del delta del Danubio.",1
+242.png,banco,19,¿Qué personaje de dibujos animados de Disney tiene como pareja a Faline?,Bambi,"**Bambi**, el cervatillo protagonista de la película de Disney de 1942.",1
+243.png,banco,20,¿Qué función tenía el Coliseo cuando se construyó?,Era un anfiteatro,"**Era un anfiteatro destinado a espectáculos públicos**, especialmente combates de gladiadores, cacerías de animales y otros entretenimientos de la antigua Roma.",1
+244.png,banco,21,¿Cuál es el oso más grande del mundo?,El oso polar,"**El oso polar**, considerado la especie de oso más grande del mundo.",1
+245.png,banco,22,¿Qué se añade al azúcar blanco para obtener azúcar moreno?,Melaza,**Melaza**.,1
+246.png,banco,23,¿Qué planta productora de fibra es atacada por el picudo del algodonero?,El algodón,**El algodón (algodonero)**.,1
+247.png,banco,24,¿Cómo se llama la única ópera de Beethoven?,Fidelio,"**Fidelio**, estrenada en 1805.",1
+248.png,banco,25,¿En qué ciudad se encuentra el Museo del Hermitage?,San Petersburgo,"**San Petersburgo, Rusia**.",1
+249.png,banco,26,¿Qué país tiene la costa más larga?,Canadá,"**Canadá**, con aproximadamente **202.080 kilómetros de costa**.",1
+250.png,banco,27,"Aparte de la Ciudad del Vaticano, ¿cómo se llama el pequeño Estado rodeado por Italia?",San Marino,"**San Marino**, una república independiente rodeada completamente por Italia.",1
+251.png,banco,28,¿Qué estudia un ictiólogo?,Los peces,**Los peces**.,1
+252.png,banco,29,¿A qué grupo pertenece la marca de chocolatinas Baby Ruth?,Ferrero,"**Ferrero**, aunque anteriormente pertenecía a **Nestlé**, hasta 2018.",1
+253.png,banco,30,¿En qué ciudad europea se encuentra el Partenón?,Atenas,"**Atenas, Grecia**.",1
+254.png,banco,31,¿Cuál es el apellido del científico que estudió por primera vez la herencia genética en plantas?,Mendel,**Mendel** (Gregor Mendel).,1
+255.png,banco,32,"¿Cómo se llamaba el dirigible que explotó en Lakehurst, Nueva Jersey, en 1937?",Hindenburg,**Hindenburg** (LZ 129).,1
+256.png,banco,33,¿En qué ciudad de la Antigüedad se encontraban los Jardines Colgantes?,Babilonia,**Babilonia**.,1
+257.png,banco,34,¿Cuál es la capital de Australia?,Canberra,**Canberra**.,1
+258.png,banco,35,¿En qué ciudad se encuentra la escultura del David de Miguel Ángel?,Florencia,"**Florencia, Italia**.",1
+259.png,banco,36,¿Cuál es el apellido de la primera persona que completó un vuelo en solitario a través del Atlántico?,Lindbergh,**Lindbergh** (Charles Lindbergh).,1
+260.png,banco,37,¿Cuál es el apellido de quien descubrió el radio?,Curie,**Curie** (Marie y Pierre Curie).,1
+261.png,banco,38,¿Cuál fue la última obra musical que compuso Mozart?,El Réquiem,**Réquiem en re menor (K. 626)**.,0
+262.png,banco,39,¿Cuál es el apellido del autor de las novelas de James Bond?,Fleming,**Fleming** (Ian Fleming).,1
+263.png,banco,40,¿Cómo se llamaba el pez de colores de Pinocho?,Cleo,**Cleo**.,1
+264.png,banco,41,"¿Cómo se llama el submarino de Veinte mil leguas de viaje submarino, de Julio Verne?",Nautilus,**Nautilus**.,1
+265.png,banco,42,"Sin contar el Sol, ¿cómo se llama la estrella más brillante del cielo?",Sirio,**Sirio**.,1
+266.png,banco,43,¿Cómo se llamaba el acorazado alemán hundido el 27 de mayo de 1941?,Bismarck,**Bismarck**.,1
+267.png,banco,44,¿Cómo se llama el instrumento utilizado para medir la velocidad del viento?,Anemómetro,**Anemómetro**.,1
+268.png,banco,45,¿Cuál fue el último planeta del sistema solar en ser descubierto?,Neptuno,**Neptuno** (descubierto en 1846).,1
+269.png,banco,46,¿En qué deporte se utilizan piedras y escobas?,Curling,**Curling**.,1
+270.png,banco,47,¿Cómo se llama la unidad utilizada para medir profundidades de agua que equivale a seis pies?,Braza,**Braza (fathom)**.,1
+271.png,banco,48,¿Quién es conocido como el padre de la geometría?,Euclides,**Euclides**.,1
+272.png,banco,49,¿Cuál es el único animal doméstico que no se menciona en la Biblia?,El gato,**El gato**.,1
+273.png,banco,50,¿Qué país ganó la primera Copa Mundial de la FIFA?,Uruguay,**Uruguay (1930)**.,1
+274.png,banco,51,¿De qué país es capital Ankara?,Turquía,**Turquía**.,1
+275.png,banco,52,¿En qué país se encuentran las ruinas de la ciudad de Cartago?,Túnez,**Túnez**.,1
+276.png,banco,53,¿Con qué nombre se conoce el aditivo alimentario E330?,Ácido cítrico,**Ácido cítrico**.,1
+277.png,banco,54,¿Qué descubrió Joseph Priestley en 1774?,El oxígeno,**El oxígeno**.,1
+278.png,banco,55,¿Quién es el dios griego de la música?,Apolo,**Apolo**.,1
+279.png,banco,56,¿Cómo se llama la isla más grande del mundo?,Groenlandia,**Groenlandia**.,1
+280.png,banco,57,¿Qué fruta se conocía antiguamente como grosella espinosa china?,El kiwi,**Kiwi**.,0
+281.png,banco,58,¿De qué color es la sangre del pulpo?,Azul,**Azul**.,1
+282.png,banco,59,¿En qué parte del cuerpo de las langostas macho se encuentran sus vejigas?,En la cabeza,**En la cabeza**.,1
+283.png,banco,60,¿En qué ciudad se construyó el Titanic?,Belfast,"**Belfast, Irlanda del Norte**.",1
+284.png,banco,61,¿Cuál es el grupo sanguíneo más común entre los seres humanos?,O positivo,**O positivo (O+)**.,1
+285.png,banco,62,¿Cuál fue el primer órgano interno humano que se trasplantó con éxito?,El riñón,**El riñón (1954)**.,1
+286.png,banco,63,¿Qué serpiente venenosa desprende un olor parecido al del pepino?,La serpiente cabeza de cobre,**La serpiente cabeza de cobre (mocasín cobrizo)**.,1
+287.png,banco,64,¿Qué mide la escala Scoville en los alimentos?,El grado de picor,**El nivel de picante o pungencia**.,0
+288.png,banco,65,¿Qué mamífero terrestre tiene la presión arterial más alta?,La jirafa,**La jirafa**.,1
+289.png,banco,66,¿Cuál fue el primer país en conceder a las mujeres el derecho al voto?,Nueva Zelanda,**Nueva Zelanda (1893)**.,1
+290.png,banco,67,¿Cómo se llama la constelación más grande del cielo?,Hidra,**Hidra**.,1
+291.png,banco,68,¿En qué nota musical suenan la mayoría de los cláxones de los coches estadounidenses?,Fa,**Fa (F)**.,1
+292.png,banco,69,¿Quién fue el primer emperador cristiano de Roma?,Constantino I,**Constantino I el Grande**.,1
+293.png,banco,70,¿Con qué nombre se conoce actualmente el país que antes se llamaba Costa de Oro?,Ghana,**Ghana**.,1
+294.png,banco,71,¿Cuál es la capital de Francia?,París,**París**.,1
+295.png,banco,72,¿En qué país se encuentra Roma?,Italia,**Italia**.,1
+296.png,banco,73,¿En qué continente se encuentra Argentina?,América,**América del Sur**.,1
+297.png,banco,74,¿Cuál es la capital de Portugal?,Lisboa,**Lisboa**.,1
+298.png,banco,75,¿En qué país se encuentran las pirámides de Guiza?,Egipto,**Egipto**.,1
+299.png,banco,76,¿Qué océano separa América de Europa?,El Atlántico,**Océano Atlántico**.,0
+300.png,banco,77,¿En qué ciudad se encuentra la Torre Eiffel?,París,"**París, Francia**.",1
+301.png,banco,78,¿En qué país se encuentra la ciudad de Tokio?,Japón,**Japón**.,1
+302.png,banco,79,¿En qué deporte destacó Michael Jordan?,Baloncesto,**Baloncesto**.,1
+303.png,banco,80,¿Qué deporte consiste en deslizarse sobre las olas con una tabla?,Surf,**Surf**.,1
+304.png,banco,81,¿En qué deporte ganó sus medallas olímpicas Michael Phelps?,Natación,**Natación**.,1
+305.png,banco,82,¿En qué deporte se utiliza un cuadrilátero y guantes para combatir?,Boxeo,**Boxeo**.,1
+306.png,banco,83,¿Qué deporte de invierno se practica sobre la nieve con dos tablas alargadas y bastones?,Esquí,**Esquí**.,1
+307.png,banco,84,¿Quién pintó la Mona Lisa?,Leonardo da Vinci,**Leonardo da Vinci**.,1
+308.png,banco,85,¿Quién pintó el Guernica?,Pablo Picasso,**Pablo Picasso**.,1
+309.png,banco,86,¿Qué instrumento musical tiene teclas blancas y negras y cuerdas en su interior?,El piano,**Piano**.,0
+310.png,banco,87,"¿Qué grupo británico estaba formado por John, Paul, George y Ringo?",Los Beatles,**The Beatles**.,0
+311.png,banco,88,¿Qué cantante era conocido como el Rey del Pop?,Michael Jackson,**Michael Jackson**.,1
+312.png,banco,89,¿Qué pintor español es conocido por sus relojes derretidos?,Salvador Dalí,**Salvador Dalí**.,1
+313.png,banco,90,¿Qué instrumento musical suele tener seis cuerdas y se toca rasgueándolas o pulsándolas?,La guitarra,**Guitarra**.,0
+314.png,banco,91,¿En qué planeta vivimos?,La Tierra,**La Tierra**.,1
+315.png,banco,92,¿Cómo se llama el satélite natural de la Tierra?,La Luna,**La Luna**.,1
+316.png,banco,93,¿Qué estrella se encuentra en el centro del sistema solar?,El sol,**El Sol**.,1
+317.png,banco,94,¿Cuántas patas tiene una araña?,Ocho,**Ocho patas**.,1
+318.png,banco,95,¿Qué insectos producen la miel que consumimos?,Las abejas,**Las abejas**.,1
+319.png,banco,96,¿Qué órgano bombea la sangre por el cuerpo?,El corazón,**El corazón**.,1
+320.png,banco,97,¿Cómo se llama el proceso por el que las plantas utilizan la luz para producir materia orgánica?,Fotosíntesis,**Fotosíntesis**.,1
+321.png,banco,98,¿Qué animal pasa de ser una oruga a tener alas?,Mariposa,**La mariposa**.,1
+322.png,banco,99,¿Quién escribió Don Quijote de la Mancha?,Miguel de Cervantes,**Miguel de Cervantes Saavedra**.,1
+323.png,banco,100,¿Qué personaje de cuento pierde un zapato de cristal?,Cenicienta,**Cenicienta**.,1
+324.png,banco,101,¿Cómo se llama el muñeco de madera al que le crece la nariz cuando miente?,Pinocho,**Pinocho**.,1
+325.png,banco,102,¿Qué joven mago tiene una cicatriz con forma de rayo en la frente?,Harry Potter,**Harry Potter**.,1
+326.png,banco,103,¿Qué civilización construyó el Coliseo de Roma?,La civilización romana,**La civilización romana**.,1
+327.png,banco,104,¿En qué año llegó la expedición de Cristóbal Colón a América?,1492,**1492**.,1
+328.png,banco,105,¿Qué superhéroe es conocido como el Hombre Araña?,Spiderman,**Spider-Man**.,0
+1.png,banco,106,¿En qué plataforma se estrenó la serie Stranger Things?,Netflix,[[Pensó durante un segundo]]Se estrenó en **Netflix**.,1
+2.png,banco,107,¿Quién interpreta a Jack Dawson en Titanic?,Leonardo DiCaprio,[[Pensó durante un segundo]]**Leonardo DiCaprio** interpreta a **Jack Dawson** en *Titanic*.,1
+3.png,banco,108,¿A qué película pertenece la canción Libre soy?,Frozen,[[Pensó durante un segundo]]Pertenece a **Frozen: el reino del hielo**.,1
+4.png,banco,109,¿Qué saga gira en torno al Anillo Único?,El Señor de los Anillos,[[Pensó durante 9s]]La saga de **El Señor de los Anillos**.,1
+17.png,banco,112,¿Quién fue el primer emperador romano?,Augusto,[[Pensó durante un segundo]]**Augusto** fue el primer emperador romano.,1
+18.png,banco,113,¿En qué año cayó el Muro de Berlín?,1989,[[Pensó durante un segundo]]En **1989**.,1
+19.png,banco,114,¿En qué año comenzó la Revolución Francesa?,1789,[[Pensó durante un segundo]]En **1789**.,1
+20.png,banco,115,¿En qué año terminó la Segunda Guerra Mundial?,1945,[[Pensó durante un par de segundos]]En **1945**.,1
+33.png,banco,118,¿Qué país tiene forma de bota?,Italia,[[Pensó durante un segundo]]**Italia** tiene forma de bota.,1
+34.png,banco,119,¿Cuál es la capital de Alemania?,Berlín,[[Pensó durante un segundo]]La capital de **Alemania** es **Berlín**.,1
+35.png,banco,120,¿Qué río pasa por París?,Sena,[[Pensó durante unos pocos segundos]]El río que pasa por **París** es el **Sena**.,1
+46.png,banco,121,¿Cuántos jugadores tiene un equipo de fútbol en el campo?,11,"[[Pensó durante un par de segundos]]Un equipo de fútbol tiene **11 jugadores en el campo**, incluyendo el **portero**.",1
+47.png,banco,122,¿Cada cuántos años se celebran normalmente los Juegos Olímpicos?,4,Cada **4 años**. 🏅,1
+48.png,banco,123,¿Con qué deporte se relaciona el Tour de Francia?,Ciclismo,Con el **ciclismo** 🚴.,1
+49.png,banco,124,¿Qué deporte practica Rafael Nadal?,Tenis,Rafael Nadal practica **tenis**. 🎾,1
+50.png,banco,125,¿Con qué deporte se relaciona la NBA?,Baloncesto,La NBA se relaciona con el **baloncesto**. 🏀,1
+61.png,banco,126,¿Cuál es la fórmula química del agua?,H2O,La fórmula química del agua es **H₂O**. 💧,0
+62.png,banco,127,¿Qué molécula contiene la información genética?,ADN,El **ADN (ácido desoxirribonucleico)**. 🧬,1
+64.png,banco,129,¿Qué células transportan oxígeno en la sangre?,Glóbulos rojos,"Los **glóbulos rojos (eritrocitos)**, gracias a la **hemoglobina** que contienen. 🩸",1
+65.png,banco,130,¿Qué indica un pH menor que 7?,Que es ácido,Un pH menor que 7 indica que una sustancia es **ácida**. 🧪,0
+77.png,banco,132,¿En qué museo se encuentra la Mona Lisa?,Louvre,"En el **Museo del Louvre**, en París. 🖼️",1
+78.png,banco,133,¿Quién pintó La noche estrellada?,Vincent van Gogh,**Vincent van Gogh**. 🎨,1
+79.png,banco,134,¿Qué artista pintó el techo de la Capilla Sixtina?,Miguel Ángel,**Miguel Ángel**. 🎨,1
+80.png,banco,135,¿Qué estilo artístico se asocia principalmente con Claude Monet?,Impresionismo,El **impresionismo**. 🎨,1
+6.png,banco,136,¿Qué videojuego popular incluye al personaje Mario?,Super Mario Bros.,[[Pensó durante un segundo]]La saga **Super Mario**.,0
+7.png,banco,137,¿Quién creó Los Simpson?,Matt Groening,[[Pensó durante un segundo]]**Matt Groening** creó *Los Simpson*.,1
+8.png,banco,138,¿Cómo se llama el muñeco vaquero de Toy Story?,Woody,[[Pensó durante un segundo]]**Woody**.,1
+9.png,banco,139,¿Qué actriz interpreta a Hermione Granger en las películas de Harry Potter?,Emma Watson,[[Pensó durante un segundo]]**Emma Watson**.,1
+10.png,banco,140,¿A qué casa de Hogwarts pertenece Harry Potter?,Gryffindor,[[Pensó durante un segundo]]**Gryffindor**.,1
+21.png,banco,141,¿En qué batalla fue derrotado definitivamente Napoleón?,Waterloo,[[Pensó durante un par de segundos]]En la **batalla de Waterloo**.,1
+22.png,banco,142,¿Qué civilización construyó las pirámides de Giza?,Egipcia,[[Pensó durante un segundo]]La civilización del **Antiguo Egipto**.,0
+23.png,banco,143,¿Quién fue Cleopatra?,Reina de Egipto,"[[Pensó durante un segundo]]**Cleopatra** fue la última reina del **Antiguo Egipto**, famosa por su inteligencia, su poder político y sus relaciones con **Julio César** y **Marco Antonio**.",0
+24.png,banco,144,¿Qué imperio tuvo como capital Constantinopla?,Imperio Bizantino,"[[Pensó durante un par de segundos]]El **Imperio bizantino**, también conocido como el **Imperio romano de Oriente**, tuvo como capital **Constantinopla**.",1
+25.png,banco,145,¿Qué documento inglés se firmó en 1215?,Carta Magna,[[Pensó durante un par de segundos]]La **Carta Magna** o **Magna Carta**. Fue firmada en **1215** por el rey **Juan sin Tierra** de Inglaterra.,1
+36.png,banco,146,¿En qué país está la Torre Eiffel?,Francia,"[[Pensó durante un segundo]]La **Torre Eiffel** está en **Francia**, concretamente en **París**.",1
+37.png,banco,147,¿Cuál es la capital de Marruecos?,Rabat,[[Pensó durante un par de segundos]]La capital de **Marruecos** es **Rabat**.,1
+38.png,banco,148,¿Cuál es la capital de Argentina?,Buenos Aires,[[Pensó durante un par de segundos]]La capital de **Argentina** es **Buenos Aires**.,1
+39.png,banco,149,¿En qué continente está Madagascar?,África,"[[Pensó durante un segundo]]**Madagascar** está en **África**. Es una isla situada al sureste del continente africano, en el océano Índico.",1
+52.png,banco,152,¿De qué nacionalidad es Fernando Alonso?,Española,Fernando Alonso es **español**. 🇪🇸,0
+53.png,banco,153,¿Cuántos hoyos tiene un recorrido estándar de golf?,18,Un recorrido estándar de golf tiene **18 hoyos**. ⛳,1
+54.png,banco,154,¿Cuántos jugadores tiene un equipo de balonmano en pista?,7,Un equipo de balonmano tiene **7 jugadores en pista**: 6 jugadores de campo y 1 portero. 🤾,1
+55.png,banco,155,¿Cuál es la distancia oficial de una maratón?,"42,195 km","La distancia oficial de una maratón es **42,195 kilómetros**. 🏃",0
+66.png,banco,156,¿A qué velocidad aproximada viaja la luz en el vacío?,300.000 km/s,Aproximadamente a **300.000 km/s** (unos **3 × 10⁸ m/s**). 💡,1
+67.png,banco,157,¿Cuál es la unidad de medida de la fuerza en el Sistema Internacional?,Newton,El **newton (N)**. ⚙️,1
+68.png,banco,158,¿Qué orgánulo celular se conoce como la central energética de la célula?,Mitocondria,La **mitocondria**. 🔬 Es la principal encargada de producir energía en forma de ATP.,1
+69.png,banco,159,¿Qué planeta es famoso por sus anillos?,Saturno,**Saturno**. 🪐,1
+70.png,banco,160,¿Qué gas liberan las plantas durante la fotosíntesis?,Oxígeno,**Oxígeno (O₂)**. 🌿,1
+81.png,banco,161,¿Quién pintó El nacimiento de Venus?,Sandro Botticelli,**Sandro Botticelli**. 🎨,1
+82.png,banco,162,¿Qué arquitecto diseñó la Sagrada Familia?,Antoni Gaudí,**Antoni Gaudí**. ⛪,1
+83.png,banco,163,¿Qué artista pintó El beso?,Gustav Klimt,**Gustav Klimt**. 🎨,1
+84.png,banco,164,¿Qué pintor español es uno de los principales representantes del cubismo?,Pablo Picasso,**Pablo Picasso**. 🎨,1
+85.png,banco,165,¿En qué museo de Madrid se encuentra el Guernica?,Museo Reina Sofía,En el **Museo Reina Sofía** de Madrid. 🖼️,1
+11.png,banco,166,¿Qué villano de Star Wars lleva casco negro y respira de forma característica?,Darth Vader,[[Pensó durante un segundo]]**Darth Vader**.,1
+12.png,banco,167,¿Cómo se llama el reino de Frozen?,Arendelle,[[Pensó durante un segundo]]**Arendelle**.,1
+13.png,banco,168,¿Qué Pokémon amarillo es la mascota principal de la saga?,Pikachu,[[Pensó durante un segundo]]**Pikachu**.,1
+14.png,banco,169,¿Qué serie está basada en los libros Canción de hielo y fuego?,Juego de Tronos,[[Pensó durante un segundo]]**Juego de Tronos** (*Game of Thrones*).,1
+15.png,banco,170,¿Quién dirigió la película Avatar de 2009?,James Cameron,[[Pensó durante un segundo]]**James Cameron**.,1
+26.png,banco,171,¿Quién fue la primera mujer en ganar un Premio Nobel?,Marie Curie,"[[Pensó durante un segundo]]La primera mujer en ganar un **Premio Nobel** fue **Marie Curie**, en **1903**, en la categoría de **Física**. Compartió el premio con **Pierre Curie** y **Henri Becquerel** por sus investigaciones sobre la radiactividad.",1
+27.png,banco,172,¿Qué monarcas financiaron el viaje de Colón de 1492?,Los Reyes Católicos,"[[Pensó durante un segundo]]Los **Reyes Católicos**, **Isabel I de Castilla** y **Fernando II de Aragón**, financiaron el viaje de Cristóbal Colón de **1492**.",1
+28.png,banco,173,¿Qué tratado puso fin a la guerra entre Alemania y los Aliados en la Primera Guerra Mundial?,Tratado de Versalles,"[[Pensó durante un par de segundos]]El **Tratado de Versalles**, firmado en **1919**, puso fin formalmente a la guerra entre **Alemania y los Aliados** en la Primera Guerra Mundial.",1
+29.png,banco,174,¿Qué países se enfrentaron principalmente en la Guerra de los Cien Años?,Francia e Inglaterra,[[Pensó durante un segundo]]Principalmente se enfrentaron **Inglaterra y Francia** en la **Guerra de los Cien Años**.,0
+30.png,banco,175,¿Qué hecho desencadenó la Primera Guerra Mundial?,El asesinato del archiduque Francisco Fernando,"[[Pensó durante un par de segundos]]El hecho que desencadenó la **Primera Guerra Mundial** fue el **asesinato del archiduque Francisco Fernando de Austria** en **Sarajevo**, el **28 de junio de 1914**.",1
+41.png,banco,176,¿Cuál es el lago más grande del mundo por superficie?,Mar Caspio,"[[Pensó durante un par de segundos]]El lago más grande del mundo por superficie es el **mar Caspio**. Aunque se llama “mar”, geográficamente se considera el **mayor lago del mundo**.",1
+42.png,banco,177,¿Dónde se encuentra la Alhambra?,Granada,"[[Pensó durante un segundo]]La **Alhambra** se encuentra en **Granada**, en **Andalucía, España**.",1
+43.png,banco,178,¿Cuál es la capital de Canadá?,Ottawa,[[Pensó durante un par de segundos]]La capital de **Canadá** es **Ottawa**.,1
+44.png,banco,179,¿Qué país tiene como capital Atenas?,Grecia,[[Pensó durante un segundo]]El país que tiene como capital **Atenas** es **Grecia**.,1
+45.png,banco,180,¿Qué cordillera separa tradicionalmente Europa y Asia?,Urales,[[Pensó durante un segundo]]La cordillera que separa tradicionalmente **Europa y Asia** es la de los **montes Urales**.,1
+56.png,banco,181,¿Qué deportista es famoso por jugar en los Chicago Bulls?,Michael Jordan,**Michael Jordan**. 🏀,1
+57.png,banco,182,¿Qué torneo de tenis se juega tradicionalmente sobre hierba?,Wimbledon,**Wimbledon**. 🎾,1
+58.png,banco,183,¿Qué selección ganó el Mundial de fútbol de 2010?,España,La selección de **España**. 🇪🇸⚽,1
+59.png,banco,184,¿Qué deportista es conocido por sus récords en los 100 metros lisos?,Usain Bolt,**Usain Bolt**. 🏃💨,1
+60.png,banco,185,¿Cuántos puntos vale un triple en baloncesto?,3,Un triple vale **3 puntos**. 🏀,1
+71.png,banco,186,¿Cómo se llama el centro de un átomo?,Núcleo,El **núcleo**. ⚛️,1
+72.png,banco,187,¿Qué metal es líquido a temperatura ambiente?,Mercurio,El **mercurio (Hg)**. 🌡️,1
+73.png,banco,188,¿Qué tipo de animales alimentan a sus crías con leche?,Mamíferos,Los **mamíferos**. 🐄🥛,1
+74.png,banco,189,¿A qué temperatura se congela el agua a presión normal?,0 °C,A **0 °C** a presión atmosférica normal. ❄️💧,1
+75.png,banco,190,¿Qué fuerza mantiene a los planetas orbitando alrededor del Sol?,Gravedad,La **fuerza de la gravedad**. 🌞🪐,1
+86.png,banco,191,¿Quién esculpió El David?,Miguel Ángel,**Miguel Ángel**. 🗿,1
+87.png,banco,192,¿Qué movimiento artístico se asocia con Salvador Dalí?,Surrealismo,El **surrealismo**. 🎨,1
+88.png,banco,193,¿Quién pintó Las meninas?,Diego Velázquez,**Diego Velázquez**. 🎨,1
+89.png,banco,194,¿Qué escultor creó El pensador?,Auguste Rodin,**Auguste Rodin**. 🗿,1
+90.png,banco,195,¿Qué pintor es conocido por sus cuadros de girasoles?,Vincent van Gogh,**Vincent van Gogh**. 🌻🎨,1
+91.png,banco,196,¿En qué serie aparece el personaje Sheldon Cooper?,The Big Bang Theory,**The Big Bang Theory**. 📺,1
+92.png,banco,197,¿Cómo se llama el capitán protagonista de Piratas del Caribe?,Jack Sparrow,**Jack Sparrow**. 🏴‍☠️,1
+93.png,banco,198,¿Qué compañía creó a Mickey Mouse?,Disney,**The Walt Disney Company (Disney)**. 🐭✨,1
+94.png,banco,199,¿Qué película popularizó la frase “Hasta el infinito y más allá”?,Toy Story,**Toy Story**. 🚀,1
+95.png,banco,200,¿Qué actor interpreta a Iron Man en el Universo Marvel?,Robert Downey Jr.,**Robert Downey Jr.** 🦾,1
+106.png,banco,201,¿Qué ciudad romana fue destruida por la erupción del Vesubio?,Pompeya,**Pompeya**.,1
+107.png,banco,202,¿Quién fue el primer presidente de Estados Unidos?,George Washington,**George Washington**.,1
+108.png,banco,203,¿En qué país comenzó la Revolución Industrial?,Reino Unido,"En **Gran Bretaña**, especialmente en **Inglaterra**.",0
+109.png,banco,204,¿Qué civilización utilizaba jeroglíficos?,Egipcia,La **civilización egipcia**.,1
+110.png,banco,205,¿Qué imperio construyó una gran red de calzadas por Europa?,Imperio Romano,El **Imperio romano**.,1
+121.png,banco,206,¿Cuál es la capital de Noruega?,Oslo,**Oslo**.,1
+123.png,banco,208,¿Cuál es el río más largo de España?,Tajo,El **Tajo**.,1
+124.png,banco,209,¿En qué continente está Brasil?,América,**América del Sur**.,1
+136.png,banco,211,¿En qué deporte se utiliza una raqueta?,Tenis,"En deportes como el **tenis**, el **bádminton** o el **pádel**.",1
+137.png,banco,212,¿Cuántos jugadores tiene un equipo de voleibol en pista?,6,**6 jugadores**. 🏐,1
+138.png,banco,213,¿Qué país ganó el Mundial de fútbol de 2014?,Alemania,**Alemania**. 🇩🇪🌍,1
+139.png,banco,214,¿Qué deporte practica Pau Gasol?,Baloncesto,**Baloncesto**. 🏀,1
+140.png,banco,215,¿Qué competición ciclista se celebra principalmente en España?,Vuelta a España,La **Vuelta a España**. 🚴,1
+153.png,banco,217,"¿Qué partícula tiene carga negativa? (electrón, protón, neutrón o fotón)",Electrón,El **electrón**.,1
+154.png,banco,218,¿Qué sentido se asocia principalmente con los ojos?,Vista,La **vista**. 👁️,1
+155.png,banco,219,¿Qué científico propuso las leyes del movimiento clásicas?,Isaac Newton,**Isaac Newton**.,1
+166.png,banco,220,¿Quién pintó La joven de la perla?,Vermeer,**Johannes Vermeer**.,1
+168.png,banco,221,¿Qué movimiento artístico se caracteriza por formas geométricas y múltiples perspectivas?,Cubismo,El **cubismo**.,1
+169.png,banco,222,¿Qué pintor español retrató a la familia de Carlos IV?,Francisco de Goya,**Francisco de Goya**.,1
+170.png,banco,223,¿Quién pintó La ronda de noche?,Rembrandt,**Rembrandt**.,1
+96.png,banco,224,¿Cómo se llama la ciudad donde viven Los Simpson?,Springfield,**Springfield**. 🍩📺,1
+97.png,banco,225,¿Qué director dirigió Jurassic Park y E.T.?,Steven Spielberg,**Steven Spielberg**. 🎬,1
+98.png,banco,226,¿Qué muñeca famosa protagonizó una película de 2023 con Margot Robbie?,Barbie,**Barbie**. 🎀,1
+99.png,banco,227,¿Cómo se llama el personaje con poderes interpretado por Millie Bobby Brown en Stranger Things?,Once,**Once (Eleven)**. 🧇✨,1
+100.png,banco,228,¿Cómo se llama el colegio de magia de Harry Potter?,Hogwarts,**Hogwarts**. 🪄🏰,1
+111.png,banco,229,¿Qué guerra enfrentó al norte y al sur de Estados Unidos?,Guerra de Secesión,La **Guerra de Secesión** o **Guerra Civil estadounidense**.,1
+112.png,banco,230,¿Quién fue una figura clave de la independencia de la India?,Mahatma Gandhi,**Mahatma Gandhi**.,1
+113.png,banco,231,¿Qué pueblo antiguo es famoso por sus guerreros espartanos?,Griegos,"Los **espartanos**, de la antigua **Esparta**, en Grecia.",0
+114.png,banco,232,¿En qué año comenzó la Primera Guerra Mundial?,1914,En **1914**.,1
+115.png,banco,233,¿Qué país fue gobernado por los faraones?,Egipto,**Egipto**.,1
+126.png,banco,234,¿Qué océano baña la costa este de Estados Unidos?,Atlántico,El **océano Atlántico**.,1
+127.png,banco,235,¿Cuál es el país más pequeño del mundo?,Vaticano,La **Ciudad del Vaticano**.,1
+128.png,banco,236,¿En qué país se encuentra la ciudad de Marrakech?,Marruecos,**Marruecos**.,1
+129.png,banco,237,¿Qué montaña es la más alta del mundo?,Everest,El **monte Everest**.,1
+141.png,banco,239,¿En qué deporte se usa un bate?,Béisbol,En el **béisbol**. ⚾,1
+142.png,banco,240,¿Cuántos sets se necesitan ganar normalmente para vencer en un partido masculino de Grand Slam?,3,"**3 sets**, porque los partidos masculinos de Grand Slam se juegan **al mejor de 5 sets**. 🎾",1
+143.png,banco,241,¿Qué selección ganó la Eurocopa 2008?,España,**España**. 🇪🇸🌍,1
+144.png,banco,242,¿Qué atleta fue conocido como “El hijo del viento”?,Carl Lewis,**Carl Lewis**. 🏃,1
+145.png,banco,243,¿Qué deporte se practica en una piscina y tiene estilos como crol o braza?,Natación,**Natación**. 🏊,1
+156.png,banco,244,¿Qué gas necesitan los humanos para respirar?,Oxígeno,**Oxígeno**.,1
+157.png,banco,245,¿Cuál es el planeta más cercano al Sol?,Mercurio,**Mercurio**. ☿,1
+158.png,banco,246,¿Qué aparato se usa para observar objetos muy pequeños?,Microscopio,El **microscopio**. 🔬,1
+159.png,banco,247,¿Qué teoría explica la evolución de las especies por selección natural?,Teoría de Darwin,"La **teoría de la evolución por selección natural**, propuesta por **Charles Darwin** y **Alfred Russel Wallace**.",0
+160.png,banco,248,¿Qué parte del cuerpo protege el cráneo?,El cerebro,El **cerebro**. 🧠,1
+171.png,banco,249,"¿Qué arte consiste en crear figuras con piedra, madera o metal?",Escultura,La **escultura**.,1
+172.png,banco,250,¿Qué artista es famoso por sus latas de sopa Campbell?,Andy Warhol,**Andy Warhol**.,1
+173.png,banco,251,¿En qué país nació Leonardo da Vinci?,Italia,En **Italia**. 🇮🇹,1
+174.png,banco,252,¿Qué pintor fue uno de los máximos representantes del barroco italiano?,Caravaggio,**Caravaggio**.,1
+101.png,banco,254,¿Qué animal es Sonic?,Un erizo,Un **erizo**. 🦔💨,1
+102.png,banco,255,¿Cómo se llama la protagonista de La Sirenita?,Ariel,**Ariel**. 🧜‍♀️,1
+103.png,banco,256,¿Qué personaje vive en una piña debajo del mar?,Bob Esponja,**Bob Esponja**. 🍍🌊,1
+104.png,banco,257,¿Qué película tiene como protagonista a un ogro verde?,Shrek,**Shrek**. 💚👹,1
+105.png,banco,258,¿Qué programa musical español se desarrolla en una academia?,Operación Triunfo,**Operación Triunfo (OT)**. 🎤,1
+116.png,banco,259,¿Qué acontecimiento tuvo lugar el 14 de julio de 1789 en Francia?,La toma de la Bastilla,"La **toma de la Bastilla**, uno de los acontecimientos clave del inicio de la **Revolución Francesa**.",1
+117.png,banco,260,¿Quién fue Julio César?,Un líder romano,"Un **militar, político y dictador romano**, clave en el final de la República romana.",0
+118.png,banco,261,¿Qué cultura precolombina construyó Chichén Itzá?,Maya,La **civilización maya**.,1
+119.png,banco,262,¿Qué periodo histórico precede a la Edad Moderna?,Edad Media,La **Edad Media**.,1
+120.png,banco,263,¿Qué rey español fue conocido como “el Prudente”?,Felipe II,**Felipe II**.,1
+131.png,banco,264,¿Qué estrecho separa España de Marruecos?,Estrecho de Gibraltar,El **estrecho de Gibraltar**.,1
+132.png,banco,265,¿Qué país tiene forma de hexágono según una expresión común?,Francia,"**Francia**, conocida popularmente como **“el Hexágono”**. 🇫🇷",1
+133.png,banco,266,¿Cuál es la capital de Corea del Sur?,Seúl,**Seúl**.,1
+134.png,banco,267,¿En qué comunidad autónoma está Sevilla?,Andalucía,En **Andalucía**.,1
+135.png,banco,268,¿Qué desierto es el más grande del mundo?,Antártico,"La **Antártida** es el desierto más grande del mundo. Si te refieres a desiertos cálidos, es el **Sáhara**.",0
+146.png,banco,269,¿En qué deporte destaca Novak Djokovic?,Tenis,**Tenis**. 🎾,1
+147.png,banco,270,¿Cuántos aros tiene el símbolo olímpico?,5,**5 aros**. 🟦🟨⬛🟩🟥,1
+148.png,banco,271,¿Qué país es famoso por los All Blacks?,Nueva Zelanda,**Nueva Zelanda**. 🏉🇳🇿,1
+149.png,banco,272,¿Qué deporte se juega en Roland Garros?,Tenis,**Tenis**. 🎾,1
+150.png,banco,273,¿Qué equipo de fútbol juega en Anfield?,Liverpool,El **Liverpool FC**. 🌍🔴,1
+161.png,banco,274,¿Qué tipo de energía se obtiene del viento?,Eólica,La **energía eólica**. 🌬️⚡,1
+162.png,banco,275,¿Cuántas patas tiene un insecto?,6,**6 patas**.,1
+163.png,banco,276,¿Qué órgano filtra la sangre y produce orina?,Riñón,Los **riñones**.,1
+165.png,banco,278,¿Qué rama de la ciencia estudia los seres vivos?,Biología,La **biología**.,1
+176.png,banco,279,¿Qué arquitecto diseñó la Casa Batlló?,Antoni Gaudí,**Antoni Gaudí**.,1
+177.png,banco,280,¿Qué museo madrileño está especialmente dedicado a arte contemporáneo?,Museo Reina Sofía,El **Museo Reina Sofía**.,1
+178.png,banco,281,"¿Qué técnica artística usa pequeñas piezas de vidrio, piedra o cerámica?",Mosaico,El **mosaico**.,1
+179.png,banco,282,¿Qué pintor es conocido por escenas luminosas de playas valencianas?,Joaquín Sorolla,**Joaquín Sorolla**.,1
+180.png,banco,283,¿Qué artista firmaba algunas obras con el seudónimo “R. Mutt”?,Marcel Duchamp,**Marcel Duchamp**.,1
+181.png,banco,284,¿En qué película aparece un DeLorean como máquina del tiempo?,Regreso al futuro,"En ***Regreso al futuro*** **(Back to the Future, 1985)**. El **DeLorean DMC-12** es la máquina del tiempo de Doc Brown.
+También aparece en las dos secuelas de la trilogía.",1
+182.png,banco,285,¿Cómo se llama el león protagonista de El rey león?,Simba,Se llama **Simba**. 🦁,1
+183.png,banco,286,¿Quién creó la saga Star Wars?,George Lucas,La saga **Star Wars** fue creada por **George Lucas**.,1
+184.png,banco,287,¿Qué actor interpreta a Indiana Jones?,Harrison Ford,**Harrison Ford**.,1
+185.png,banco,288,¿Qué saga protagoniza Katniss Everdeen?,Los Juegos del Hambre,**Los juegos del hambre**.,1
+188.png,banco,289,¿Quién inventó la imprenta moderna en Europa?,Johannes Gutenberg,**Johannes Gutenberg**.,1
+189.png,banco,290,¿En qué año cayó el Imperio romano de Occidente?,476,En el año **476 d. C.**.,1
+190.png,banco,291,¿Qué reina dio nombre a la época victoriana?,Victoria,La **reina Victoria del Reino Unido**.,1
+191.png,banco,292,¿En qué año comenzó la Revolución Rusa?,1917,En **1917**.,1
+192.png,banco,293,¿Qué ciudad fue capital del Imperio inca?,Cuzco,"**Cuzco (Cusco)**, en el actual Perú.",1
+195.png,banco,294,¿Cuál es la capital de Chile?,Santiago de Chile,**Santiago de Chile**.,1
+196.png,banco,295,¿Cuál es la capital de Suecia?,Estocolmo,**Estocolmo**.,1
+197.png,banco,296,¿Qué canal une el mar Mediterráneo con el mar Rojo?,Canal de Suez,El **canal de Suez**.,1
+198.png,banco,297,¿Qué país tiene como capital Varsovia?,Polonia,**Polonia**.,1
+199.png,banco,298,¿Cuál es la montaña más alta de África?,Kilimanjaro,"El **Kilimanjaro**, en Tanzania.",1
+202.png,banco,299,¿Cuántos minutos dura un partido de fútbol reglamentario sin descuento?,90,"**90 minutos**, divididos en **dos partes de 45 minutos**. 🌍",1
+203.png,banco,300,¿Qué deporte practica Simone Biles?,Gimnasia artística,**Gimnasia artística**. 🤸,1
+204.png,banco,301,¿Cómo se llama el torneo de selecciones de fútbol de Sudamérica?,Copa América,La **Copa América**. 🌎,1
+205.png,banco,302,¿Qué deportista español compite en motociclismo y ha ganado varios mundiales?,Marc Márquez,**Marc Márquez**. 🏍️,1
+206.png,banco,303,¿En qué deporte se utiliza un disco llamado puck?,Hockey sobre hielo,En **hockey sobre hielo**. 🏒,1
+209.png,banco,304,¿Qué órgano produce insulina?,Páncreas,El **páncreas**.,1
+210.png,banco,305,¿Cuántos cromosomas tiene normalmente una célula humana?,46,"**46 cromosomas**, organizados en **23 pares**.",1
+211.png,banco,306,¿Qué elemento químico tiene el símbolo Na?,Sodio,**Sodio**.,1
+212.png,banco,307,¿Qué escala se usa popularmente para medir la magnitud de los terremotos?,Escala Richter,La **escala de Richter**.,0
+213.png,banco,308,¿Cómo se llama el paso de líquido a gas?,Evaporación,**Vaporización**.,0
+216.png,banco,309,¿De qué país era Frida Kahlo?,México,**México**. 🇲🇽,1
+217.png,banco,310,¿Quién pintó La escuela de Atenas?,Rafael,**Rafael Sanzio**.,1
+218.png,banco,311,¿Qué arte consiste en doblar papel para crear figuras?,Origami,El **origami**.,1
+219.png,banco,312,¿Qué pintor realizó El jardín de las delicias?,El Bosco,**El Bosco** (Hieronymus Bosch).,1
+220.png,banco,313,¿Qué movimiento artístico se asocia con Kandinsky?,Arte abstracto,"El **arte abstracto**, especialmente el **expresionismo abstracto**.",1
+329.png,banco,314,¿Qué tratado de 1648 puso fin a la Guerra de los Treinta Años?,Paz de Westfalia,La **Paz de Westfalia (1648)** puso fin a la Guerra de los Treinta Años.,1
+330.png,banco,315,¿Qué emperador bizantino ordenó recopilar el Corpus Juris Civilis?,Justiniano I,El emperador bizantino **Justiniano I** (527-565 d. C.).,1
+331.png,banco,316,¿En qué batalla de 1066 fue derrotado Harold II de Inglaterra?,Hastings,En la **batalla de Hastings (1066)**.,1
+332.png,banco,318,¿Qué emperador indio difundió el budismo por Asia en el siglo III a. C.?,Ashoka,"El emperador **Ashoka (Aśoka)**, de la dinastía Maurya.",1
+333.png,banco,319,¿Qué piedra permitió descifrar los jeroglíficos egipcios?,Piedra de Rosetta,La **piedra de Rosetta**.,1
+334.png,banco,320,¿Quién completó la primera vuelta al mundo tras la muerte de Magallanes?,Juan Sebastián Elcano,"**Juan Sebastián Elcano**, en 1522.",1
+335.png,banco,321,¿Qué civilización desarrolló la escritura cuneiforme?,Sumerios,"La **civilización sumeria**, en Mesopotamia, hacia el 3200 a. C.",0
+336.png,banco,322,¿Qué dinastía china construyó gran parte de la actual Gran Muralla?,Dinastía Ming,La **dinastía Ming (1368-1644)**.,1
+337.png,banco,323,¿Qué guerra enfrentó a Atenas y Esparta?,Guerra del Peloponeso,La **guerra del Peloponeso (431-404 a. C.)**.,1
+338.png,banco,324,¿Cuál es el lago más profundo del mundo?,Lago Baikal,"El **lago Baikal**, en Rusia, con una profundidad máxima de aproximadamente **1.642 metros**.",1
+339.png,banco,325,¿Qué estrecho separa Asia de América?,Estrecho de Bering,El **estrecho de Bering**.,1
+340.png,banco,326,¿Cuál es el desierto no polar más seco de la Tierra?,Desierto de Atacama,"El **desierto de Atacama**, en Chile.",1
+341.png,banco,327,"¿Qué río atraviesa Viena, Bratislava, Budapest y Belgrado?",Danubio,El **río Danubio**.,1
+342.png,banco,328,¿Qué país posee la isla de Socotra?,Yemen,**Yemen**.,1
+343.png,banco,329,¿Qué cordillera alberga el K2?,Karakórum,La **cordillera del Karakórum**.,1
+344.png,banco,330,¿Qué mar interior se ha reducido drásticamente por el desvío de sus ríos?,Mar de Aral,"El **mar de Aral**, en Asia Central.",1
+345.png,banco,331,¿Cuál es la capital constitucional de Bolivia?,Sucre,**Sucre**.,1
+346.png,banco,332,¿Qué país africano está completamente rodeado por Sudáfrica?,Lesoto,**Lesoto**.,1
+347.png,banco,333,¿Qué canal artificial conecta el Atlántico con el Pacífico?,Canal de Panamá,El **canal de Panamá**.,1
+348.png,banco,334,¿Qué límite determina la masa máxima aproximada de una enana blanca estable?,Límite de Chandrasekhar,"El **límite de Chandrasekhar**, aproximadamente **1,4 masas solares**.",1
+349.png,banco,335,¿Qué orgánulo contiene la mayor parte del ADN de las células eucariotas?,Núcleo,El **núcleo celular**.,1
+350.png,banco,336,¿Qué base nitrogenada sustituye a la timina en el ARN?,Uracilo,El **uracilo (U)**.,1
+351.png,banco,337,¿Qué enzima descompone la lactosa?,Lactasa,La **lactasa**.,1
+352.png,banco,338,¿Qué principio afirma que la entropía de un sistema aislado no disminuye?,Segunda ley de la termodinámica,La **segunda ley de la termodinámica**.,1
+353.png,banco,339,¿Qué partícula elemental transmite la interacción electromagnética?,Fotón,El **fotón**.,1
+354.png,banco,340,¿Qué elemento químico tiene el número atómico 74?,Wolframio,"El **wolframio (W)**, también llamado tungsteno.",1
+355.png,banco,341,¿Qué isótopo se utiliza para datar restos orgánicos antiguos?,Carbono-14,El **carbono-14 (¹⁴C)**.,1
+356.png,banco,342,¿Qué científico formuló el principio de incertidumbre?,Werner Heisenberg,"**Werner Heisenberg**, en 1927.",1
+357.png,banco,343,¿Qué fenómeno demuestra que la luz puede desviarse por la gravedad?,Lente gravitacional,La **lente gravitacional**.,1
+358.png,banco,344,¿Quién escribió La divina comedia?,Dante Alighieri,**Dante Alighieri**.,1
+359.png,banco,345,¿Qué escritor irlandés publicó Ulises?,James Joyce,"**James Joyce**, en 1922.",1
+360.png,banco,346,¿Qué dramaturgo español escribió La vida es sueño?,Calderón de la Barca,"**Pedro Calderón de la Barca**, en 1635.",1
+361.png,banco,347,¿Qué técnica pictórica utiliza fuertes contrastes entre luces y sombras?,Claroscuro,El **claroscuro**.,1
+362.png,banco,348,¿Qué compositor escribió El arte de la fuga?,Johann Sebastian Bach,**Johann Sebastian Bach**.,1
+364.png,banco,350,¿Qué movimiento artístico fue iniciado oficialmente con la exposición de 1874 en París?,Impresionismo,El **impresionismo**.,1
+365.png,banco,351,¿Qué escultor creó El éxtasis de Santa Teresa?,Gian Lorenzo Bernini,**Gian Lorenzo Bernini**.,1
+366.png,banco,352,¿Qué arquitecto diseñó el Museo Guggenheim de Bilbao?,Frank Gehry,**Frank Gehry**.,1
+367.png,banco,353,¿Qué novela comienza con la frase «En un lugar de la Mancha»?,Don Quijote de la Mancha,"**Don Quijote de la Mancha**, de Miguel de Cervantes.",1
+368.png,banco,354,¿Quién dirigió la película 2001: Una odisea del espacio?,Stanley Kubrick,"**Stanley Kubrick**, en 1968.",1
+369.png,banco,355,¿Qué película de Orson Welles está considerada una de las más importantes de la historia del cine?,Ciudadano Kane,**Ciudadano Kane (1941)**.,1
+370.png,banco,356,¿Cuál fue el primer largometraje animado producido por Walt Disney?,Blancanieves y los siete enanitos,**Blancanieves y los siete enanitos (1937)**.,1
+371.png,banco,357,¿Qué director japonés realizó Los siete samuráis?,Akira Kurosawa,"**Akira Kurosawa**, en 1954.",1
+372.png,banco,358,¿Qué compositor creó la banda sonora de Psicosis?,Bernard Herrmann,"**Bernard Herrmann**, en 1960.",1
+373.png,banco,359,"¿Qué torneo de rugby enfrenta a Inglaterra, Escocia, Gales, Irlanda, Francia e Italia?",Campeonato de las Seis Naciones,El **Torneo de las Seis Naciones**.,0
+374.png,banco,360,¿Quién fue el primer campeón mundial de Fórmula 1?,Giuseppe Farina,"**Giuseppe «Nino» Farina**, en 1950.",0
+375.png,banco,361,¿Qué ciclista ganó la primera edición del Tour de Francia?,Maurice Garin,"**Maurice Garin**, en 1903.",1
+376.png,banco,362,¿Qué país ganó la primera Copa Mundial de rugby en 1987?,Nueva Zelanda,"**Nueva Zelanda**, en 1987.",1
+377.png,banco,363,¿Qué atleta consiguió nueve medallas de oro en los Juegos Olímpicos de Berlín de 1936?,Jesse Owens,"**Jesse Owens** consiguió **cuatro medallas de oro**, no nueve, en los Juegos Olímpicos de Berlín de 1936.",1
