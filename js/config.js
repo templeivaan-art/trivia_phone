@@ -9,7 +9,7 @@ window.CONFIG = {
   // ID de DataPipe (https://pipe.jspsych.org) para guardar los CSV en OSF.
   // Si se deja vacío, al terminar se descarga el CSV en el dispositivo
   // (útil para pilotar, NO para recoger datos de participantes).
-  DATAPIPE_ID: "",
+  DATAPIPE_ID: "h1DdaiKnzFMP",
 
   // Cómo se muestra la ayuda de ChatGPT:
   //   "texto"  -> respuesta transcrita en una caja tipo chat (legible en móvil)
