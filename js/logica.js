@@ -36,6 +36,7 @@ CFG.MONEDAS_ERROR = -10;
 CFG.DESCANSO_MINIMO = 120.0 * F;
 CFG.DESCANSO_MAXIMO = 300.0 * F;
 // Memoria
+CFG.DURACION_PREGUNTA_MEMORIA = 4.0 * F;
 CFG.N_MEMORIA_CATEGORIA = 15;
 CFG.MIN_INTERVALO_MEMORIA = 240.0 * F;
 // Tarea de puntos (distractora)
@@ -466,6 +467,18 @@ function cerrar_puntos(nombres, tiempos) {
 }
 
 // ---------------- Memoria ----------------
+function barajar_opciones_memoria(x) {
+    // Orden aleatorio de las respuestas; Key pasa a la posición en la que se muestra la correcta.
+    const letras = ["A", "B", "C", "D"];
+    const originales = letras.map(function (l) { return x[l]; });
+    const orden = barajar([0, 1, 2, 3]);
+    for (let i = 0; i < 4; i++) { x[letras[i]] = originales[orden[i]]; }
+    x["mem_key_original"] = x["Key"];
+    x["Key"] = orden.indexOf(parseInt(x["Key"], 10) - 1) + 1;
+    x["mem_orden_opciones"] = orden.map(function (j) { return letras[j]; }).join("");
+    x["mem_permutacion"] = orden;
+}
+
 function preparar_memoria() {
     const con = E["memory_bank"].filter(function (r) { return r["used_ai"] === 1; });
     const sin = E["memory_bank"].filter(function (r) { return r["used_ai"] === 0; });
@@ -502,6 +515,7 @@ function preparar_memoria() {
                        "mem_consulta_cuota": null, "ultima_exposicion_fin": null});
     }
     elegidas = barajar(elegidas);
+    for (const x of elegidas) { barajar_opciones_memoria(x); }
     let ultima = null;
     for (let i = 0; i < elegidas.length; i++) {
         elegidas[i]["mem_orden"] = i + 1;
@@ -527,6 +541,8 @@ function cerrar_memoria(teclas, tiempos) {
     let rt = null;
     if (respuesta !== null) { rt = primer_rt(tiempos); }
     const ev = evaluar(respuesta, e["Key"]);
+    let respuesta_original = null;
+    if (respuesta !== null) { respuesta_original = e["mem_permutacion"][parseInt(respuesta, 10) - 1] + 1; }
     E["monedas_memoria"] = E["monedas_memoria"] + ev[1];
     E["monedas"] = E["monedas"] + ev[1];
     E["memoria_resultados"][ev[2]] = E["memoria_resultados"][ev[2]] + 1;
@@ -539,7 +555,10 @@ function cerrar_memoria(teclas, tiempos) {
     return {"fase": "memoria", "mem_orden": e["mem_orden"], "mem_categoria": e["mem_categoria"],
             "mem_uid": e["mem_uid"], "question_ID": e["ID"], "question": e["Pregunta"],
             "Correct_answer": e["Correct"], "A": e["A"], "B": e["B"], "C": e["C"], "D": e["D"],
-            "Key": e["Key"], "mem_bloque_origen": e["mem_bloque_origen"],
+            "Key": e["Key"], "mem_key_original": e["mem_key_original"],
+            "mem_orden_opciones": e["mem_orden_opciones"],
+            "mem_respuesta_original": respuesta_original,
+            "mem_bloque_origen": e["mem_bloque_origen"],
             "mem_respuesta_previa": e["mem_respuesta_previa"],
             "mem_acierto_previo": e["mem_acierto_previo"],
             "mem_conocimiento_inicial": e["mem_conocimiento_inicial"],

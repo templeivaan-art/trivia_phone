@@ -2,7 +2,7 @@
 :root {
   --fondo: #808080;
   --texto: #000;
-  --rojo-caja: #E21B3C;
+  --borde-caja: #000;
   --verde: #008000;
   --rojo: #ff0000;
   --boton: #f2f2f2;
@@ -61,11 +61,11 @@ input { -webkit-user-select: text; user-select: text; }
 .escala .num { font-weight: bold; font-size: 1.3em; min-width: 1.2em; text-align: center; }
 @media (min-width: 700px) and (min-height: 600px) { .escala { grid-template-columns: 1fr 1fr; } }
 
-/* Opciones de respuesta (cajas con borde rojo como en PsychoPy) */
+/* Opciones de respuesta (cajas con borde negro como en PsychoPy) */
 .opciones { display: grid; grid-template-columns: 1fr; gap: 10px; width: 100%; }
 @media (orientation: landscape) and (min-width: 560px) { .opciones { grid-template-columns: 1fr 1fr; } }
 .opcion {
-  appearance: none; background: transparent; border: 4px solid var(--rojo-caja); border-radius: 6px;
+  appearance: none; background: transparent; border: 4px solid var(--borde-caja); border-radius: 6px;
   color: #000; font: inherit; font-size: clamp(16px, 4.4vw, 21px); text-align: left;
   padding: 10px 14px; min-height: 56px; cursor: pointer; touch-action: manipulation;
 }

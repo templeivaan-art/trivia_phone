@@ -314,16 +314,16 @@ async function rutinaFix(indice) {
   return vista;
 }
 
-async function rutinaPregunta(vista, rutina = 'question_practice', conCuenta = true) {
+async function rutinaPregunta(vista, rutina = 'question_practice', conCuenta = true, duracion = CFG.DURACION_PREGUNTA) {
   const nodo = pinta('<div class="barra" style="justify-content:center">' + esc(vista.texto_contador_pregunta) + '</div>' +
-    '<div class="centro">' + (conCuenta ? '<div class="cuenta" style="font-size:clamp(28px,8vw,44px);margin-bottom:18px">' + Math.floor(CFG.DURACION_PREGUNTA / CFG.FACTOR_TIEMPO) + '</div>' : '') +
+    '<div class="centro">' + (conCuenta ? '<div class="cuenta" style="font-size:clamp(28px,8vw,44px);margin-bottom:18px">' + Math.floor(duracion / CFG.FACTOR_TIEMPO) + '</div>' : '') +
     '<div class="texto" style="font-size:clamp(20px,5.6vw,30px)">' + txt(vista.pregunta_txt) + '</div></div>');
   const onset = await flip();
   L.registrar_inicio('pregunta', onset);
   Datos.add(rutina + '.started', onset);
   const el = nodo.querySelector('.cuenta');
-  const D = Math.floor(CFG.DURACION_PREGUNTA / CFG.FACTOR_TIEMPO);
-  await esperar({ onset, tmax: CFG.DURACION_PREGUNTA, tick: t => { if (el) el.textContent = String(Math.max(1, D - Math.floor(t / CFG.FACTOR_TIEMPO))); } });
+  const D = Math.floor(duracion / CFG.FACTOR_TIEMPO);
+  await esperar({ onset, tmax: duracion, tick: t => { if (el) el.textContent = String(Math.max(1, D - Math.floor(t / CFG.FACTOR_TIEMPO))); } });
   Datos.add(rutina + '.stopped', ahora());
 }
 
@@ -542,7 +542,7 @@ async function escenaPuntos(i) {
 // ---------------- memoria
 async function rutinaMemoria(i) {
   const vista = await rutinaFix(i);
-  await rutinaPregunta(vista, 'pregunta_memoria', false);
+  await rutinaPregunta(vista, 'pregunta_memoria', false, CFG.DURACION_PREGUNTA_MEMORIA);
   const nodo = pinta('<div class="barra" style="justify-content:center">' + esc(vista.texto_contador_opciones) + '</div><div class="zona-gpt"></div>' + htmlOpciones(vista));
   const onset = await flip();
   L.registrar_inicio('opciones', onset);
